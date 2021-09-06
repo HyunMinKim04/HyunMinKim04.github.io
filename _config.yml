@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "ko"
-title                    : "Site Title"
+title                    : "C언어 배움터"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김현민"
-description              : "An amazing website."
+description              : "C 프로그래밍에 대한 지식을 공유하는 배움터"
 url                      : "https://HyunMinKim04.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "HyunMinKim04/HyunMinKim04.github.io"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "김현민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "프로그래밍을 공부하는 학생"
   location         : "대한민국, 안양"
   email            : "21-20608@hafs.hs.kr"
   links:
